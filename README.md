@@ -3,6 +3,12 @@
 ## Overview
 This project focuses on predicting discount rates based on Invoice Amount (Sales Amount) for retail pharmaceutical companies. Accurate discount rate prediction is crucial for various financial applications, including valuation, investment analysis, and risk assessment.
 
+## Installation Guide
+- Clone the repository using **gh repo clone mohamednizzad/discount_rate_prediction** in GitHub CLI. If not, simply download and Unzip the folder.
+- Once you have the file, open the directory in Command Prompt (CMD) and run the following code
+- **pip install -r requirements.txt** to install all the dependencies
+- That's it. You can run the file **discount.py** using the command **streamlit run discount.py** in CMD
+
 ## Objectives
 - Develop machine learning models to predict discount rates based on sales data.
 - Evaluate and compare the performance of different models.
